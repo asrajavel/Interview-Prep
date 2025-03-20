@@ -24,7 +24,8 @@ I read these books before starting to prepare:
 - **Make it Stick** - To learn how to remember things.
 - **How to Win Friends and Influence People** - After all, you have to talk to people in the interview.
 
-Most ideas below are from these books.
+Most ideas below are from these books.  
+The term study is used for 'reading books', 'solving questions', 'writing notes', 'making Anki cards' etc.
 
 ### Consistent hours everyday
 - No extra hours on weekends:
@@ -129,7 +130,7 @@ Years of Exp: 7.5
 Previous company: Flipkart
 
 - 3 months of preparation. Then 1.5 months of giving interviews. 
-- Did not study much when giving interviews, mostly revisions and checking questions that went wrong in the interviews.
+- I did not study much when giving interviews, mostly revisions and checking questions that went wrong in the interviews.
 - Total hours studied: 191 hours. 
   - 191/90 = 2.12 hours per day on an average.
 - Total LeetCode questions solved: 100
@@ -147,3 +148,12 @@ Previous company: Flipkart
   - Google
 
 >Remember, it's not only about the number of hours you put in, but also about the quality of those hours.
+
+## Attached resources
+- [Monthly Tracker PDF](resources/Monthly_Tracker.pdf) - For printing
+- [Monthly Tracker Google Sheet](https://docs.google.com/spreadsheets/d/1W7lUr_ICVWbx8DW7xzvhfafXpW0xoh0PVuPErEsBaTA/edit?usp=sharing) - In case you want to add some columns or modify it. But I like to keep it simple.
+- [My Monthly Tracker filled](resources/Monthly_Tracker_filled.pdf) - For reference
+- [My Anki Deck](resources/Anki_Cards.apkg)
+  - This is the deck I made. You can use this for some reference. 
+  - But you should make your own cards, you should revise what you studied and not what someone else studied.
+  - Making effective cards is an art. I'm not an expert. So do not expect the cards to be perfect.
