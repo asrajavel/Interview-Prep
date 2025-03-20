@@ -1,15 +1,27 @@
-# Interview-Prep
+# Interview Guide
 
-This is targetted towards someone who has already worked for a few years and is looking to switch jobs.
-To someone who knows what has to be done, but is not able to do it consistently.
+>This is targeted towards someone who has already worked for a few years and is looking to switch jobs.  
+>To someone who knows what has to be done, but is not able to do it consistently.
+
+>This document is a collection of ideas that I have tried and found useful.  
+>But it's not a one-size-fits-all. You have to try and see what works for you.  
+>It is very opinionated and may not work for everyone.
 
 There are 2 sections basically:
 1. Preparation  
-3. Interviewing  
+2. During the interview  
 
 The first one is the largest section.
 
 ## Preparation
+
+I read these books before starting to prepare:
+- **Atomic Habits** - To build good habits.
+- **Deep Work** - To learn how to concentrate.
+- **Make it Stick** - To learn how to remember things.
+- **How to Win Friends and Influence People** - After all, you have to talk to people in the interview.
+
+Most ideas below are from these books.
 
 ### Consistent hours everyday
 - No extra hours on weekends:
@@ -67,7 +79,7 @@ The first one is the largest section.
   - Formulas
 
 ### Meditate and relax
-- I chant Hare Krishna Maha Mantra for 1 round (108 times) before starting the study in the morning.
+- I chant the Hare Krishna Maha Mantra for 1 round (108 times) before starting the study in the morning.
 - Relax on weekends. Spend time with family and friends.
 - Study only when you sit for study. Don't think about study/concepts when you are not studying.
 
@@ -100,7 +112,29 @@ The first one is the largest section.
 - Talk, Talk, Talk - You can improve on it by giving mock interviews.
 - Make it fun. After all, it's boring for the interviewer as well to sit for an hour.
 - You can talk about similar problems, similar algos you have seen/used.
-- Talk like you are explaining to a friend.
-- Keep in mind - Nobody can clear every single interview round they give. Learn from the mistakes and move on.
+- Talk like you are explaining to a friend. 
 
-Sry for so many questions :sweat_smile:, I joined recently, so still trying to get
+>Keep in mind - Nobody can clear every single interview round they give. Learn from the mistakes and move on.
+
+## My stats - 2024 job switch
+These stats do not include the time spent on books in the starting of the Preparation section.  
+
+Years of Exp: 7.5  
+Previous company: Flipkart
+
+- 3 months of preparation. Then 1.5 months of giving interviews. 
+- Did not study much when giving interviews, mostly revisions and checking questions that went wrong in the interviews.
+- Total hours studied: 191 hours. 
+  - 191/90 = 2.12 hours per day on an average.
+- Total Leetcode questions solved: 100
+- Books read:
+  - Designing Data Intensive Applications
+  - System design interview: An insider's guide - Volume 1
+- Offers from companies for Senior Software Engineer role: 
+  - Thoughtspot
+  - Tesco
+  - Salesforce
+  - PhonePe
+  - Uber
+- Failed interviews:
+  - Google
