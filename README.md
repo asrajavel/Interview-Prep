@@ -24,7 +24,7 @@ The first one is the largest section.
 ### Early morning
 - Wake up at 5:00 AM.
 - Waking up in the initial days is the hardest part. No snoozing.
-- Try QR alarm, paste the QR code in the bathroom. You have to scan the QR code to stop the alarm.
+- Try QR alarm, paste the QR code in the washroom. You have to scan the QR code to stop the alarm.
 - No checking phone for office emails or messages after waking up. This will make me anxious.
 - If I miss waking up, I never cover it up by studying later in the day. I just miss it so that I can wake up early the next day.
 - Morning study will give you a sense of accomplishment and will make you feel throughout the day that you have already done something productive.
@@ -50,7 +50,7 @@ The first one is the largest section.
 - With digital notes, I end up spending most of the time in formatting and organizing the notes.
 - I write in A4 size with 0.7mm mechanical pencil. 
 - A4 size has very good height and breadth especially. I spiral bind around 50 sheets of A4 size and use it as a notebook.
-- With pencil, you can make diagrams easily and you can erase easily, unlike pens.
+- With pencil, you can make diagrams easily and you can make corrections easily, unlike pens.
 - When reading a material, if you get some doubts on something, don't start googling it. Just write it down in the notebook. You can google it at the end.
   - Googling in the middle will make you lose focus, and you will end up reading something else.
   - In many cases your doubt will be cleared when you read further.
@@ -58,7 +58,7 @@ The first one is the largest section.
 ### Revision
 - Revision is key to remembering.
 - I tried Leitner box first, to stay offline and to avoid distractions. But it became hard to manage with a lot of cards.
-- Use Anki, learn how to use it.
+- Learn how to use Anki and use it.
 - Just make cards for anything you want to remember:
   - Algorithms
   - Concepts
@@ -81,14 +81,13 @@ The first one is the largest section.
   - '(suggests some improvement on the given solution)'
   - 'ohh will this test case pass'
 - Solve without seeing the solution first.
-- I solved around 100 questions.
 
 ### Mix everything
 - Don't do Leetcode for 2 months, then do system design for the next 1 month. You will start forgetting Leetcode by the time you finish system design. This will cause panic.
-- Don't do all Binary search problems in one week, 3 weeks down the line you will forget most of them.
+- Don't do all Binary search problems in one week, 3 weeks down the line you would forget many of them.
 - Also solving questions from the same topic in a row will make you remember the solution, not the concept. It will also make the questions look easier, deceptively.
-- Easiest is to make a list of problems to solve and just solve them in random order.
-- Install uBlock Origin, learn to use element picker. Remove all distractions from the page like: difficult, tags, votes, acceptance rate etc. These will make you biased towards the question.
+- The best way is to make a list of problems to solve and just solve them in random order.
+- Install uBlock Origin, learn to use element picker. Remove all distractions from the page like: difficulty, tags, votes, acceptance rate etc. These will make you biased towards the question, even before you attempt it.
 
 ### Don't mix planning and execution
 - When you sit for study, you should already know what you are going to study.
@@ -103,3 +102,5 @@ The first one is the largest section.
 - You can talk about similar problems, similar algos you have seen/used.
 - Talk like you are explaining to a friend.
 - Keep in mind - Nobody can clear every single interview round they give. Learn from the mistakes and move on.
+
+Sry for so many questions :sweat_smile:, I joined recently, so still trying to get
