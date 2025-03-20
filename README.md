@@ -5,13 +5,14 @@
 
 >This document is a collection of ideas that I have tried and found useful.  
 >But it's not a one-size-fits-all. You have to try and see what works for you.  
->It is very opinionated and may not work for everyone.
+>It is **very opinionated** and may **not** work for everyone.
 
-There are 2 sections basically:
+There are 2 sections:
 1. Preparation  
 2. During the interview  
 
-The first one is the largest section.
+The first one is the largest section.  
+At the end, I have added stats on how much time I spent on preparation.
 
 ## Preparation
 
@@ -95,6 +96,7 @@ Most ideas below are from these books.
   - 'ohh will this test case pass'
 - Try to solve it without looking at the solution first. 
   - Even in the worst case - you will end up discovering ways that don't work, and understand why they don't work.
+- Even after I successfully solve a question, I read the official editorial. It might have more ways to solve the question.
 
 ### Mix everything
 - Don't do LeetCode for 2 months, then do system design for the next 1 month. You will start forgetting LeetCode by the time you finish system design. This will cause panic.
@@ -119,7 +121,7 @@ Most ideas below are from these books.
 >Keep in mind - Nobody can clear every single interview round they give. Learn from the mistakes and move on.
 
 ## My stats - 2024 job switch
-These stats do not include the time spent on books in the starting of the Preparation section.  
+These stats do not include the time spent on books mentioned in the starting of the Preparation section.  
 
 Years of Exp: 7.5  
 Previous company: Flipkart
@@ -141,3 +143,5 @@ Previous company: Flipkart
   - Uber
 - Failed interviews:
   - Google
+
+>Remember, it's not only about the number of hours you put in, but also about the quality of those hours.
