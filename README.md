@@ -7,6 +7,8 @@
 >But it's not a one-size-fits-all. You have to try and see what works for you.  
 >It is **very opinionated** and may **not** work for everyone.
 
+>This guide is **not** about what to study from where, but about how to study.
+
 There are 2 sections:
 1. Preparation  
 2. During the interview  
