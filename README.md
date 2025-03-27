@@ -32,7 +32,7 @@ The term study is used for 'reading books', 'solving questions', 'writing notes'
   If I do extra hours on weekends, I would end up procastinating on weekdays, thinking that I can make up for it on weekends.
 - I don't study if I get a 10 mins break in office. I just relax and take a break. Minimum block of time is 1 hour.
 
-### Zero distractions
+### Zero distractions when studying
 - No phone, no music, no TV, no people around.
 - No going for snacks in the middle, everything should have been taken care beforehand.
 - Never start hungry.
